@@ -193,7 +193,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: <code>{}</code></b>"""
 
-    CAPTION = """<b>📂Title : <code>{file_name}</code>
+    CAPTION = """<b>Title : <code>{file_name}</code>
     
 ╔═══════※ ·❆· ※═══════╗
 ▫️ Cʜᴀɴɴᴇʟ : <a href=https://t.me/The_Happy_Hour_Hindi>The Happy Hour</a>
