@@ -193,12 +193,13 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: <code>{}</code></b>"""
 
-    CAPTION = """<b>Title : <code>{file_name}</code>
-    
-╔═══════※ ·❆· ※═══════╗
-▫️ Cʜᴀɴɴᴇʟ : <a href=https://t.me/The_Happy_Hour_Hindi>The Happy Hour</a>
-▫️ Mᴏᴠɪᴇ Rᴇǫ Gʀ  : <a href=https://t.me/Happy_Hour_Friends>𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞</a>
-╚═══════※ ·❆· ※═══════╝</b>""" 
+    CAPTION = """
+<b>📂 Fɪʟᴇ ɴᴀᴍᴇ :</b> <code>{file_name}</code>
+<b>
+════════※ ·❆· ※════════
+▫️ Cʜᴀɴɴᴇʟ : <a href="https://t.me/The_Happy_Hour_Hindi">𝐘𝐃𝐙𝐨𝐧𝐞</a>
+▫️ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ : <a href="https://t.me/Happy_Hour_Friends">𝐘𝐃𝐒𝐮𝐩𝐩𝐨𝐫𝐭</a>
+════════※ ·❆· ※════════</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 🏷 𝐓𝐢𝐭𝐥𝐞 : {title}
