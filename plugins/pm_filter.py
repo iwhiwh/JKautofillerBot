@@ -1764,7 +1764,7 @@ async def auto_filter(client, msg, spoll=False):
             files, offset, total_results = await get_search_results(message.chat.id ,search, offset=0, filter=True)
             settings = await get_settings(message.chat.id)
             if not files:
-                await asyncio.sleep(3)
+                await asyncio.sleep(6)
                 await jj.delete()
                 if settings["spell_check"]:
                     return await advantage_spell_chok(client, msg)
@@ -1778,7 +1778,7 @@ async def auto_filter(client, msg, spoll=False):
         search, files, offset, total_results = spoll
         m = await message.reply_text(f"<b><i> 𝖲𝖾𝖺𝗋𝖼𝗁𝗂𝗇𝗀 𝖿𝗈𝗋 '{search}' 🔎</i></b>")
         settings = await get_settings(message.chat.id)
-        await asyncio.sleep(3)
+        await asyncio.sleep(6)
         await m.delete()
     # if 'is_shortlink' in settings.keys():
     #     ENABLE_SHORTLINK = settings['is_shortlink']
