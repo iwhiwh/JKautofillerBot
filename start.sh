@@ -4,9 +4,9 @@ then
   git clone https://github.com/iwhiwh/JKautofillerBot.git /JKautofillerBot
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO
+  git clone $UPSTREAM_REPO /JKautofillerBot
 fi
 cd /Auto-search-tamil-bot
 pip3 install -U -r requirements.txt
-echo "Starting JK DEVLOPER Bot....💥"
+echo "BOT SUCCESSFULLY STARTED 💥"
 python3 bot.py
