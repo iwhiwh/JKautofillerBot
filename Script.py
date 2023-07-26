@@ -197,8 +197,8 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ :</b> <code>{file_name}</code>
 <b>
 ════════※ ·❆· ※════════
-▫️ Cʜᴀɴɴᴇʟ : <a href="https://t.me/The_Happy_Hour_Hindi">𝐘𝐃𝐙𝐨𝐧𝐞</a>
-▫️ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ : <a href="https://t.me/Happy_Hour_Friends">𝐘𝐃𝐒𝐮𝐩𝐩𝐨𝐫𝐭</a>
+▫️ Cʜᴀɴɴᴇʟ : <a href="https://t.me/The_Happy_Hour_Hindi">𝐓𝐡𝐞 𝐇𝐚𝐩𝐩𝐲 𝐇𝐨𝐮𝐫™</a>
+▫️ ᴍᴏᴠɪᴇ ʀᴇǫ Gʀ : <a href="https://t.me/Happy_Hour_Friends">𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞</a>
 ════════※ ·❆· ※════════</b>""" 
 
     IMDB_TEMPLATE_TXT = """
