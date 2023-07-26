@@ -196,8 +196,8 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
     CAPTION = """<b>📂Title : <code>{file_name}</code>
     
 ╔═══════※ ·❆· ※═══════╗
-▫️ Cʜᴀɴɴᴇʟ : <a href=https://t.me/lusifilms>𝐋𝐮𝐬𝐢 𝐅𝐢𝐥𝐦𝐬™</a>
-▫️ Mᴏᴠɪᴇ Rᴇǫ Gʀ  : <a href=https://t.me/apnamovie4>𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞</a>
+▫️ Cʜᴀɴɴᴇʟ : <a href=https://t.me/The_Happy_Hour_Hindi>The Happy Hour</a>
+▫️ Mᴏᴠɪᴇ Rᴇǫ Gʀ  : <a href=https://t.me/Happy_Hour_Friends>𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞</a>
 ╚═══════※ ·❆· ※═══════╝</b>""" 
 
     IMDB_TEMPLATE_TXT = """
